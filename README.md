@@ -6,5 +6,7 @@
 - :student: I’m currently learning `Computer Science` and `Data Science` on my own, using free courses available on the Internet.
 - :nerd_face: Learning new things.
 - :thinking: I’m currently open for a new internship/entry level job opportunity.
+
 <h2>Uploaded projects</h2>
-- Graph search project
+
+- Graph search using diffrent algorithms
