@@ -3,11 +3,12 @@
 
 - :school: I am Power Engeenering gradute at Warsaw Univeristy of Technology looking for an opportunity to change my career path.
 - :technologist: I love analyse data and draw conclusions.
-- :student: I’m currently learning `Computer Science` and `Data Science` on my own, using free courses available on the Internet.
+- :student: I’m currently learning `Computer Science` and `Data Science` on my own, using courses available on the Internet.
 - :nerd_face: Everyday learning new things.
 - :thinking: I’m currently open for a new internship/entry level job opportunity.
 
 <h2>Uploaded projects</h2>
 
 - Graph search using diffrent algorithms
+- Regression model to predict wine quality
 - More projects coming soon
