@@ -9,6 +9,4 @@
 
 <h2>Uploaded projects</h2>
 
-- Graph search using diffrent algorithms
-- Regression model to predict wine quality
 - More projects coming soon
